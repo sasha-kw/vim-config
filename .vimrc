@@ -1,7 +1,8 @@
 " General Editor Setup
 set background=dark
-syntax on
-filetype indent plugin on
+syntax enable
+filetype plugin on
+set nocompatible
 set autoindent
 set ts=4 sw=4 et si
 set whichwrap+=<,>,[,]
